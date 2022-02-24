@@ -1,0 +1,11 @@
+---
+title: "About this site"
+description: |
+  Please email NicholasKarlson at gmail.com for more details.
+  For additional contact information please visit github.com/nicholaskarlson
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

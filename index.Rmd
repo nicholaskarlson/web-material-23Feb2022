@@ -1,0 +1,20 @@
+---
+title: "Web-Material-23Feb2022"
+description: |
+  Welcome to Web Material on 23Feb2022. I hope you enjoy it!
+  For an example of recent content please visit:
+    https://youtu.be/uL7TYEf9_E8
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
